@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Nifty 50",
+    "subtitle": "Index Fund · ₹19,800.75",
+    "tag": "Index",
+    "change": 0.7,
+    "symbol": "NIFTY"
+  },
+  {
+    "title": "Infosys",
+    "subtitle": "IT Services · ₹1,420.75",
+    "tag": "Large Cap",
+    "change": -1.2,
+    "symbol": "INFY"
+  },
+  {
+    "title": "HDFC Bank",
+    "subtitle": "Banking · ₹1,600.10",
+    "tag": "Banking",
+    "change": 2.3,
+    "symbol": "HDFCBANK"
+  },
+  {
+    "title": "Reliance",
+    "subtitle": "Conglomerate · ₹2,400.00",
+    "tag": "Large Cap",
+    "change": 1.5,
+    "symbol": "RELIANCE"
+  }
+]
